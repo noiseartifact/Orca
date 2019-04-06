@@ -55,6 +55,7 @@ npm start
 - `^` **cc**: Sends a MIDI CC value.
 - `;` **udp**: Sends a UDP message.
 - `=` **osc**: Sends a OSC message.
+- `_` **themer**: Modifies the currently loaded theme.
 
 ## MIDI
 
